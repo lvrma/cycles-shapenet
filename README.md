@@ -30,4 +30,4 @@ Example for Linux/Mac \
 
 Then simply run the script and wait, it can take a long time given the dataset is over 100GB. Please make sure you have enough disk space. The output folder will contain the same folder structure as the original ShapeNet, but the OBJ models inside will be adjusted.
 
-**Note:** this usage method is very rudamentary, as is the current solution. As the algorithm gets more refined, I'll make this a command-line-only tool with an easier in/out usage.
+**Note:** this usage method is very rudimentary, as is the current solution. As the algorithm gets more refined, I'll make this a command-line-only tool with an easier in/out usage.
